@@ -18,16 +18,16 @@ The importance of this dashboard lies in its ability to facilitate better decisi
 4. Weekly Alerts: Notifies managers about project updates every Friday.
 
 # Role of Report
-Reports generated from this dashboard play a crucial role in identifying trends over time regarding project completion rates versus initial estimates. They also highlight critical areas where resources may need to be allocated more efficiently.
+Reports generated from this dashboard play a crucial role in identifying trends over time regarding project completion rates versus initial estimates. They also highlight critical areas where resources may need to be allocated more efficiently. 
 
-# Technical Skills Learned
+# Technical Skills
 Through developing this Power BI dashboard:
 1. Mastery over data visualization techniques.
 2. Advanced proficiency in DAX (Data Analysis Expressions) formulas.
 3. In-depth understanding of Power BI report server publishing.
 4. Integration skills for various data sources into one coherent reporting solution.
 
-# Soft Skills Learned
+# Soft Skills
 While working on this project:
 1. Enhanced communication skills through regular updates and presentations to stakeholders.
 2. Improved problem-solving abilities when encountering data discrepancies or technical issues.
