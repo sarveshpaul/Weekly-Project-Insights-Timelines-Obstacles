@@ -1,4 +1,4 @@
-# Project Timelines & Blockers Tracker
+# Weekly Project Insights: Timelines & Obstacles
 # Overview
 This Power BI dashboard tracks project timelines, statuses, and blockers for various projects. It provides insights into project progress, identifies potential roadblocks, and helps keep stakeholders informed.
 
