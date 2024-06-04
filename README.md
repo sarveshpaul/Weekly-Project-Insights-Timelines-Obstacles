@@ -3,7 +3,8 @@
 This Power BI dashboard tracks project timelines, statuses, and blockers for various projects. It provides insights into project progress, identifies potential roadblocks, and helps keep stakeholders informed.
 
 # Project Objectives
-The primary objective of this project was to create a comprehensive dashboard that tracks the progress and timelines of strategic team projects along with any potential obstacles that could impact delivery dates.
+The primary objective of this project was to create a comprehensive dashboard that tracks the progress and timelines of strategic team projects along with any potential obstacles that could impact delivery dates. Also send weekly notification to managers to keep them updated.
+  
 
 # Purpose
 This Power BI dashboard serves as a centralized platform for monitoring project statuses across different teams within the organization. It aims to provide real-time insights into each project’s estimated time of arrival (ETA), dependencies, delays, and current sprint backlog status.
